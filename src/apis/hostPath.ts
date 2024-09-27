@@ -1,0 +1,1 @@
+export const hostPath = "https://ellwp39a9e.execute-api.ap-northeast-3.amazonaws.com"
